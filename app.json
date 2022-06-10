@@ -3,6 +3,7 @@
     "name": "nlwexpoapp",
     "slug": "nlwexpoapp",
     "version": "1.0.0",
+    "schema": "nlwexpoapp",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
