@@ -1,4 +1,4 @@
-# Platform for post user messages with ReactJs
+# Platform for post user messages with React-Native
   - Content:
     - ReactJS with Vite
     - TypeScript
